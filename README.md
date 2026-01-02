@@ -26,17 +26,7 @@ Enable dynamic exploration using slicers and interactions
 
 🛠 Tech Stack & Tools
 
-Power BI
-
-Power Query / M
-
-DAX
-
-Excel / CSV
-
-ETL & Data Modeling
-
-Star Schema Design
+Power BI, Power Query / M, DAX, Excel / CSV, ETL & Data Modeling, Star Schema Design
 
 🧹 Data Cleaning & Transformation Workflow
 
@@ -85,53 +75,23 @@ CALCULATE(
 (If you want, I’ll generate the full DAX package for your entire dashboard.)
 
 📊 Dashboard Highlights
-1. KPI Summary
-
-Total Revenue
-
-Total Bookings
-
-Average Rating
-
-Total Guests
-
-Occupancy Rate
+* KPI Summary, Total Revenue, Total Bookings, Average Rating, Total Guests, Occupancy Rate
 
 2. Trend Analysis
 
-Monthly Revenue Trend
-
-Booking Trend Over Time
-
-Customer Rating Trends
+Monthly Revenue Trend, Booking Trend Over Time, Customer Rating Trends
 
 3. Room & City Insights
 
-Revenue by Room Category
-
-Revenue by City
-
-Occupancy comparison by category
+Revenue by Room Category, Revenue by City, Occupancy comparison by category
 
 4. Customer Behavior Metrics
 
-Weekday vs Weekend performance
-
-Booking Platform Share
-
-Cancellation Patterns
+Weekday vs Weekend performance, Booking Platform Share, Cancellation Patterns
 
 5. Interactive Slicers
 
-Month / Year
-
-Week
-
-Room Category
-
-City
-
-Booking Platform
+Month / Year, Week, Room Category, City, Booking Platform
 
 🖼 Dashboard Preview
 <img width="1373" height="800" alt="Screenshot 2025-12-10 124146" src="https://github.com/user-attachments/assets/787925c3-851a-4ed4-bc54-a10b32299e88" />
