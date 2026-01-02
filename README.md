@@ -12,33 +12,33 @@ The final deliverable is an interactive Power BI dashboard presenting key KPIs, 
 
 🔍 Objectives
 
-Perform EDA on raw hospitality booking data
+     Perform EDA on raw hospitality booking data
 
-Build a consistent analytical dataset using ETL steps
+     Build a consistent analytical dataset using ETL steps
 
-Implement a clean Star Schema (Fact + Dimension Tables)
+     Implement a clean Star Schema (Fact + Dimension Tables)
 
-Write DAX measures for KPIs and business insights
+     Write DAX measures for KPIs and business insights
 
-Design a professional, intuitive Power BI dashboard
+     Design a professional, intuitive Power BI dashboard
 
-Enable dynamic exploration using slicers and interactions
+     Enable dynamic exploration using slicers and interactions
 
 🛠 Tech Stack & Tools
 
-Power BI, Power Query / M, DAX, Excel / CSV, ETL & Data Modeling, Star Schema Design
+   Power BI, Power Query / M, DAX, Excel / CSV, ETL & Data Modeling, Star Schema Design
 
 🧹 Data Cleaning & Transformation Workflow
 
-Inspected missing values, outliers, data inconsistencies
+    Inspected missing values, outliers, data inconsistencies
 
-Corrected data types, standardized categories
+     Corrected data types, standardized categories
 
-Generated derived fields (weekday/weekend, month-year, week number, rating groups)
+     Generated derived fields (weekday/weekend, month-year, week number, rating groups)
 
-Created a Date Dimension with the proper hierarchy
+     Created a Date Dimension with the proper hierarchy
 
-Merged and shaped fact + dimensions
+     Merged and shaped fact + dimensions
 
 Built a semantic model optimized for reporting
 
@@ -72,26 +72,24 @@ CALCULATE(
 )
 
 
-(If you want, I’ll generate the full DAX package for your entire dashboard.)
-
 📊 Dashboard Highlights
 * KPI Summary, Total Revenue, Total Bookings, Average Rating, Total Guests, Occupancy Rate
 
 2. Trend Analysis
 
-Monthly Revenue Trend, Booking Trend Over Time, Customer Rating Trends
+* Monthly Revenue Trend, Booking Trend Over Time, Customer Rating Trends
 
 3. Room & City Insights
 
-Revenue by Room Category, Revenue by City, Occupancy comparison by category
+* Revenue by Room Category, Revenue by City, Occupancy comparison by category
 
 4. Customer Behavior Metrics
 
-Weekday vs Weekend performance, Booking Platform Share, Cancellation Patterns
+* Weekday vs Weekend performance, Booking Platform Share, Cancellation Patterns
 
 5. Interactive Slicers
 
-Month / Year, Week, Room Category, City, Booking Platform
+* Month / Year, Week, Room Category, City, Booking Platform
 
 🖼 Dashboard Preview
 <img width="1373" height="800" alt="Screenshot 2025-12-10 124146" src="https://github.com/user-attachments/assets/787925c3-851a-4ed4-bc54-a10b32299e88" />
